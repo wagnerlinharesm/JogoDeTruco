@@ -1,0 +1,3 @@
+INDEX VERSION 1.130+C:\Users\wagne\Google Drive\Wagner - UFOP\Sétimo Periodo\Prog 2\Trabalho\.metadata\.plugins\org.eclipse.jdt.core
+2046593299.index
+1255169380.index
